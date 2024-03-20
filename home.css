@@ -1,0 +1,76 @@
+*{
+    padding: 0px;
+    margin: 0px;
+}
+.a2{
+    width: 650px !important;
+    height: 40px !important;
+    border-radius: 10cqh !important;
+    position: flex !important;
+    margin-left: 200px;
+    display: flex;
+}
+.a3{
+    border-color: transparent !important;
+    position: flex;
+    margin-top: 1px;
+    background-color: transparent !important;
+    border-top-right-radius: 2cqh !important;
+    border-bottom-right-radius: 2cqh !important;
+    
+}
+.a3:hover{
+    color: red !important;
+}
+.a4{
+    margin-left: 80px !important;
+    position: flex;
+    font-weight: bolder !important;
+    font-size: 20px;
+}
+.a5{
+   margin-left: 10px;
+   margin-top: 7px !important;
+   display: flex !important;
+}
+.a6{
+   margin-left: 40px;
+}
+.a8{
+   display: flex;
+   width: 1px !important;
+}
+
+.b1{
+    align-items: end !important;
+}
+.b2{
+    margin-left: -20px;
+    font-size: 20px;
+}
+.b3{
+    border-radius: 50cqh;
+    width: 50px;
+    height: 50px;
+    margin-left: -77%;
+    
+}
+.b4{
+    margin-left: -73%;
+    margin-top: -20px;
+}
+.b5{
+    margin-top: -13%;
+    margin-left: 15%;
+    display: inline;
+    position: flex;
+}
+.b6{
+    margin-left: 50%;
+    padding-right:20px;
+    display: inline;
+   
+}
+.b7{
+    padding-right: 20px;
+}

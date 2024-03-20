@@ -1,0 +1,65 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+body{
+    background-image: url(back.jpg);
+    background-repeat: no-repeat;
+    background-attachment: scroll;
+    background-size: cover;
+    color: white;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+.contact{
+    width: 500px;
+    background-color: rgba(8, 227, 242,0.1);
+    box-shadow: 0 0 20px 0 rgb(0, 0, 0);
+    top: 45%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    position: absolute;
+    border-radius: 10cqb;
+}
+.input{
+    width: 400px;
+    height: 40px;
+    margin-top: 20px;
+    padding-left: 10px;
+    padding-right: 10px;
+    border: 2px solid green;
+    border-radius: 10px;
+    outline: none;
+}
+
+.text{
+    height: 150px;
+    padding-top: 10px;
+}
+.form{
+    margin: 35px;
+}
+.btn{
+    border-radius: 40cqh !important;
+    width: 150px;
+    color: black !important;
+    margin-top: 20px;
+    padding: 10px;
+    background-color: rgb(255, 4, 4) !important;
+    font-size: 12px;
+    border: none;
+    cursor: pointer;
+}
+.btn:hover{
+    background-color: blue;
+    border-radius: 50px;
+}
+
+#copy{
+    text-align: center;
+    margin-top: 45%;
+    background-color: rgba(0, 0, 0,0.8);
+    color: white;
+    font-size: small;
+    
+}
